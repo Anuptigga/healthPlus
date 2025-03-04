@@ -1,8 +1,12 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+The images below show how the website looks and functions
 
 ![Project Image](./Screenshot%202025-03-04%20192521.png)
+
+Filter as per your requirement
+![Project Image](./Screenshot%202025-03-04%20193722.png)
+
 
 ## Installation
 
@@ -23,15 +27,3 @@ Examples of how to use the project.
 # Example
 npm start
 ```
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-Information about the project's license.
-
-## Contact
-
-How to reach out to the project maintainers.
