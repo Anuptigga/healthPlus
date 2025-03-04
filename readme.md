@@ -18,6 +18,13 @@ git clone https://github.com/yourusername/yourproject.git
 cd yourproject
 npm install
 ```
+### or
+download the zip and extract it
+inside the health-tech folder open a terminal
+install the packages 
+```
+npm install
+```
 
 ## Usage
 
